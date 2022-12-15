@@ -1,0 +1,5 @@
+C:\Users\maxan\source\repos\Sudoku2\bin\Release\net5.0-windows\publish\Sudoku2.exe
+C:\Users\maxan\source\repos\Sudoku2\bin\Release\net5.0-windows\publish\Sudoku2.dll
+C:\Users\maxan\source\repos\Sudoku2\bin\Release\net5.0-windows\publish\Sudoku2.deps.json
+C:\Users\maxan\source\repos\Sudoku2\bin\Release\net5.0-windows\publish\Sudoku2.runtimeconfig.json
+C:\Users\maxan\source\repos\Sudoku2\bin\Release\net5.0-windows\publish\Sudoku2.pdb
